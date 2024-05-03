@@ -1,4 +1,4 @@
-# Project Description
+# Projects Description
 
 Here you will find an overview of some of my projects and the insights derived from each one. 
 
