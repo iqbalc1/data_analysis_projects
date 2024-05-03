@@ -9,7 +9,7 @@ Welcome to my project portfolio! Here you will find an overview of some of my da
 - [HR Data Analysis Dashboard](#hr-data-analysis-dashboard)
 - [Interactive Sales Dashboard](#interactive-sales-dashboard)
 
-## CLustering 
+## Clustering 
 
 ### Customer Segmentation and Shopping Analysis
 
@@ -49,7 +49,7 @@ In this project, I evaluated the performance of different clustering algorithms 
 - Implemented interactive features in Power BI dashboards, increasing user engagement by Y%
 - Presented findings from Customer Segmentation project at industry conference XYZ
 
-## BI
+## Business Intelligence
   
 ### HR Data Analysis Dashboard
 
