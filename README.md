@@ -12,7 +12,7 @@ The goal of this project was to identify important customer groups based on inco
 - Clustering algorithms (e.g., K-means, DBSCAN)
 - Data visualization techniques (scatter plots, heatmaps, pair plots)
 
-  ## Clustering Algorithm Performance Evaluation
+## Clustering Algorithm Performance Evaluation
 
 ### Objective
 In this project, I evaluated the performance of different clustering algorithms on multiple datasets. The goal was to determine the optimal algorithm for specific data characteristics and enhance clustering accuracy. The conclusion drawn from the evaluation was that "DBSCAN" emerged as the better clustering algorithm for distant and sparse clusters.
