@@ -1,6 +1,6 @@
 # Project Description
 
-Here you will find an overview of some of my my data analysis projects and the insights derived from each one. 
+Here you will find an overview of some of my projects and the insights derived from each one. 
 
 ## Customer Segmentation and Shopping Analysis
 
