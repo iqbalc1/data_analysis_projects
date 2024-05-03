@@ -1,0 +1,1 @@
+Problem Statement: Understand a tagert customer to plan a strategy Requirements: Identify all important groups by income age and shopping score Objective: Divide the population in group as per geographical info.
